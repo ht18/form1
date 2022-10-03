@@ -34,10 +34,10 @@
         <p class="row">
             <label for="subjects" class="form-label">Au sujet de: </label>
             <select name="subject" id="subject">
-            <option value="subject1">Sujet 1</option>
-            <option value="subject2">Sujet 2</option>
-            <option value="subject3">Sujet 3</option>
-            <option value="subject4">Sujet 4</option>
+            <option value="Sujet 1">Sujet 1</option>
+            <option value="Sujet 2">Sujet 2</option>
+            <option value="Sujet 3">Sujet 3</option>
+            <option value="Sujet 4">Sujet 4</option>
             </select>
         </p>
 
